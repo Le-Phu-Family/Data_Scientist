@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Custom/Image",
+  "spellcheck": false
+}

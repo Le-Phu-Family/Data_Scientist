@@ -1,0 +1,6 @@
+{
+  "autorun": true,
+  "format": "YYYY-MM-DD",
+  "folder": "Daily/",
+  "template": "Pomodoro Daily Template"
+}

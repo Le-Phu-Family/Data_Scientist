@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "ecaf12cf4da8a9f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6640e4c8a9262aaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90f588bac34ccf7c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76d463280a6a556f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1392978d68fbdd9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17590db55df00231",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4bcf8b5274c105f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8bb9f62ccc5e93c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "002dd443260fe026",
+    "type": "split",
+    "children": [
+      {
+        "id": "95386f78d43d9163",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "722e66b1a755331b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bf0e29b9c8651096",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9ab3e046049948f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9dec9ea26ac4f6f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "bf509b990943c9a9",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "339007408ed155d6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "453a03e122602da8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "17590db55df00231",
+  "lastOpenFiles": [
+    "Others",
+    "NCKH/Đề cương.md",
+    "NCKH/Ý tưởng NCKH.md",
+    "NCKH/some notes.md",
+    "NCKH/Research Topics.md",
+    "NCKH",
+    "Mathematics/Math concept/Sigma notation property..md",
+    "Mathematics/Math concept/Mathematical proof - Normal Equation..md",
+    "Mathematics/Math concept/Euclidean norm (L2 norm)..md",
+    "Mathematics/Regularization.md",
+    "Mathematics/Gradient Descent.md",
+    "Mathematics/Math concept",
+    "Mathematics/Exploratory Data Analysis.md",
+    "Mathematics/Algebra (Đại số tuyến tính).md",
+    "Mathematics",
+    "MachineLearning/Semi-Supervised Learning.md",
+    "MachineLearning",
+    "Lecture content/03 - Polynomial Regression and Regularizations/[2025]_LinearRegression_PolynomialRegression_RidgeRegression_.ipynb",
+    "Lecture content/03 - Polynomial Regression and Regularizations/Polynominal_Regression.ipynb",
+    "Lecture content/03 - Polynomial Regression and Regularizations/5 - Regularization..md",
+    "Lecture content/03 - Polynomial Regression and Regularizations/4 - Polynomial Regression..md",
+    "Lecture content/03 - Polynomial Regression and Regularizations/3 - Linear regression - Geometric..md",
+    "Lecture content/03 - Polynomial Regression and Regularizations/2 - Multiple Linear Regression..md",
+    "Lecture content/02 - Linear Regression & Gradient Descent/[2025]_LinearRegression_GradientDescent_3D_Demo.ipynb",
+    "Lecture content/02 - Linear Regression & Gradient Descent/[2025]_TaylorSeries.ipynb",
+    "Lecture content/03 - Polynomial Regression and Regularizations/1 - Basic Linear Regression..md",
+    "Lecture content/02 - Linear Regression & Gradient Descent/[2025]_LinearRegression_GradientDescent_Demo.ipynb",
+    "Lecture content/02 - Linear Regression & Gradient Descent/[2025]_Gradient_Descent_Learning_Rate_Demo.ipynb",
+    "Lecture content/02 - Linear Regression & Gradient Descent/Linear Regression..md",
+    "Lecture content/02 - Linear Regression & Gradient Descent/Gradient Descent..md",
+    "English/Vocaborary/New words in 23.md",
+    "Deep Learning/Graph Neural Network (Node Classification).md",
+    "Data Scientist/Understanding the data process.md",
+    "Data Scientist/Roadmaps.md",
+    "Data Scientist/Attention is ALL YOU NEED - phắc hay vl.md",
+    "Custom/copilot-custom-prompts/Translate to English.md",
+    "Custom/image/Pasted image 20251101233550.png",
+    "Custom/image/Pasted image 20251101214244.png",
+    "Custom/image/Pasted image 20251101214234.png",
+    "Custom/image/Pasted image 20251101213541.png",
+    "Custom/image/Pasted image 20251101185755.png",
+    "Custom/image/Pasted image 20251023174314.png",
+    "Custom/image/Pasted image 20251023172944.png",
+    "Custom/image/Pasted image 20251023165801.png",
+    "Custom/image/Pasted image 20251009023227.png",
+    "Custom/image/Pasted image 20251009030236.png"
+  ]
+}

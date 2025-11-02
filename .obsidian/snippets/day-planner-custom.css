@@ -1,0 +1,63 @@
+/* Beautiful Pomodoro Timeline - Single Solution */
+
+/* Pomodoro Tasks - Red gradient with pulse */
+.day-planner-timeline .timeline-item:contains("🍅") {
+    background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%) !important;
+    color: white !important;
+    font-weight: 600 !important;
+    border-radius: 8px !important;
+    box-shadow: 0 3px 10px rgba(255, 107, 107, 0.4) !important;
+    animation: pomodoro-glow 2s ease-in-out infinite !important;
+    min-height: 40px !important;
+    display: flex !important;
+    align-items: center !important;
+    padding: 10px 15px !important;
+    margin: 3px 0 !important;
+}
+
+/* Break times - Calming green */
+.day-planner-timeline .timeline-item:contains("Break") {
+    background: linear-gradient(135deg, #51cf66 0%, #40c057 100%) !important;
+    color: white !important;
+    font-style: italic !important;
+    border-radius: 8px !important;
+    box-shadow: 0 2px 8px rgba(81, 207, 102, 0.3) !important;
+    min-height: 30px !important;
+    display: flex !important;
+    align-items: center !important;
+    padding: 8px 15px !important;
+}
+
+/* Timeline container styling */
+.day-planner-timeline .timeline-container {
+    min-width: 320px !important;
+    padding: 15px !important;
+    background: var(--background-secondary) !important;
+    border-radius: 12px !important;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.1) !important;
+}
+
+/* Current time indicator */
+.day-planner-timeline .timeline-now-indicator {
+    background: #ff4757 !important;
+    height: 4px !important;
+    border-radius: 2px !important;
+    box-shadow: 0 0 12px #ff4757 !important;
+}
+
+/* Glow animation for Pomodoro */
+@keyframes pomodoro-glow {
+    0%, 100% { 
+        box-shadow: 0 3px 10px rgba(255, 107, 107, 0.4) !important;
+    }
+    50% { 
+        box-shadow: 0 5px 20px rgba(255, 107, 107, 0.8) !important;
+        transform: translateY(-1px) !important;
+    }
+}
+
+/* Hover effects */
+.day-planner-timeline .timeline-item:hover {
+    transform: translateX(3px) scale(1.02) !important;
+    transition: all 0.3s ease !important;
+}

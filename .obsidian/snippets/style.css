@@ -1,0 +1,23 @@
+/* @settings
+
+name: Màu sắc tùy chỉnh
+id: my-colors
+settings:
+    - 
+        id: bg-color
+        title: Màu nền
+        type: variable-color
+        default: '#1e1e1e'
+    - 
+        id: text-color
+        title: Màu chữ
+        type: variable-color
+        default: '#ffffff'
+
+*/
+
+/* CSS áp dụng màu */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
